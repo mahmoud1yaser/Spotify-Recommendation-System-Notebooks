@@ -22,8 +22,8 @@
 
 - Recommendations
     - You may use `boxcox technique` to handle the skewness of the numerical data (but remember it only accepts positive data)
-    - You may use `PCA` in different manner rather than dimensionality reduction
-    - You may use different way than `correlation` to get the best features from the dataset
+    - You may use `PCA technique` in different manner rather than dimensionality reduction
+    - You may use different way than `correlation technique` to get the best features from the dataset
     - You may use `one hot encoding technique` regarding categorical features (yes, no) rather than (1, 0)
 
 - Helping Materials
@@ -34,7 +34,7 @@
     - Handle Skewed Data Article
         - https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Ftop-3-methods-for-handling-skewed-data-1334e0debf45
 
-<center> <strong> Feel free to make any other recommendation which is not mentioned up here, that will imporve your data features </strong> </center> 
+<center> <strong> Feel free to make any other recommendation which is not mentioned up here, that will imporve your data features </strong> </center> <br>
 
 <center> Wish you best of luck </center>
 <hr>
