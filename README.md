@@ -1,5 +1,9 @@
 # Spotify-Recommendation-System
-<hr>
+- We will have 3 tasks to finish our Spotify Recommendation System Project with deploying it <br>
+- Tasks
+    - Task1: Feature Engineering
+    - Task2: Building ML Model
+    - Task3: Deploying ML Model
 <hr>
 <center> <h1> Task 1: Feature Engineering</h1> </center>
 
@@ -36,7 +40,6 @@
 <hr>
 
 Down here is an example notebook which you have to modify your changes upon it.
-<a href="Task1_FeatureEngineering.ipynb"> Task1 Feature Engineering Notebook</a>
+<a href="Task1_FeatureEngineering.ipynb"> Task1: Feature Engineering Notebook</a>
 
-<hr>
 <hr>
