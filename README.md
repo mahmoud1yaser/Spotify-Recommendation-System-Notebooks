@@ -17,7 +17,7 @@
     - https://drive.google.com/file/d/1QB1suGX6SiyJpDZ9afpnfoRYJTwPyQMQ/view?usp=sharing
 
 - You are required to add at minimum two modifications to the feature engineering of this dataset
-    - Feel free to check your personal notebook regarding this task and add any modification which was not done in this example notebook
+    - Feel free to check your notebook regarding this task and add any modification which was not done in this example notebook
     - Feel free to contact your team leader if you want to ask about anything
 
 - Recommendations
@@ -35,12 +35,12 @@
     - Handle Skewed Data Article
         - https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Ftop-3-methods-for-handling-skewed-data-1334e0debf45
 
-<center> <strong> Feel free to make any other recommendation which is not mentioned up here, that will imporve your data features </strong> </center> <br>
+<center> <strong> Feel free to make any other recommendation that is not mentioned here, that will improve your data features. </strong> </center> <br>
 
-<center> Wish you best of luck </center>
+<center> Wish you the best of luck. </center>
 <hr>
 
-Down here is an example notebook which you have to modify your changes upon it.
+Down here is an example notebook in which you have to modify your changes upon it:<br>
 <a href="Task1_FeatureEngineering.ipynb"> Task1: Feature Engineering Notebook</a>
 
 <hr>
