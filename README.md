@@ -25,6 +25,7 @@
     - You may use `PCA technique` in different manner rather than dimensionality reduction
     - You may use different way than `correlation technique` to get the best features from the dataset
     - You may use `one hot encoding technique` regarding categorical features (yes, no) rather than (1, 0)
+    - You may use one/many of the `object` columns and convert them into category `int` using `label encoding technique`
 
 - Helping Materials
     - Feature Engineering Article
