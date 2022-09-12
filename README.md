@@ -1,6 +1,6 @@
 # Spotify-Recommendation-System
 - We will have 3 tasks to finish our Spotify Recommendation System Project with deploying it <br>
-- Tasks
+- Tasks:
     - Task1: Feature Engineering
     - Task2: Building ML Model
     - Task3: Deploying ML Model
