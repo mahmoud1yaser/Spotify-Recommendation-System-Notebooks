@@ -82,7 +82,7 @@ We are going to build Recommendation System using `Collaborative Filtering`
 
 <center> <strong> Feel free to study any other materials which is not mentioned up here, that will make you understand the content well </strong> </center> 
 
-<center> <strong> Please start studying immediately as STUDY WILL TAKE TIME </strong> </center> 
+<center> <strong> Please start studying immediately as STUDY WILL TAKE TIME </strong> </center> <br>
 
 <center> Wish you best of luck </center>
 <hr>
