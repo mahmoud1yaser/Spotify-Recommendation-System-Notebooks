@@ -44,3 +44,45 @@ Down here is an example notebook in which you have to modify your changes upon i
 <a href="Task1_FeatureEngineering.ipynb"> Task1: Feature Engineering Notebook</a>
 
 <hr>
+<hr>
+
+<center> <h1> Task 2: Spotify Collaborative Filtering Model Building</h1> </center>
+
+<hr>
+
+## Task Details 
+- Deadline Date: 9/16/2022 <br>
+- Deadline Time: 11:59 PM EG, 03:30 AM IST
+
+- Dataset Link:
+    - (will be added soon)
+
+We are going to build Recommendation System using `Collaborative Filtering` 
+
+- Helping Materials
+    - Introduction to different recommendation systems
+        - <a href="https://www.youtube.com/watch?v=SEkIy7V8Lks"> How Does Spotify Recommend Music?  </a>
+        - <a href="https://www.datacamp.com/tutorial/recommender-systems-python"> Beginner Tutorial: Recommender Systems in Python </a>
+        - <a href="https://www.cambridgespark.com/info/practical-introduction-to-recommender-systems"> Practical Introduction to Recommender Systems</a>
+        
+    - Mathematics beyond Collaborative Filtering
+        - <a href="https://www.youtube.com/watch?v=giIXNoiqO_U&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=96"> Andrew Course Lec 16, <strong> Watch from Video 16.1 to 16.6</strong></a><br>
+        - <a href="https://www.youtube.com/watch?v=WlJLGTMGC_A&list=PL6-3IRz2XF5UnONA8-ENhR0NE04mIllqB&index=14"> Hesham Assem Video 1, <strong> Special Arabic Content</strong></a>
+        - <a href="https://www.youtube.com/watch?v=wxQdtPT5-2Q&list=PL6-3IRz2XF5UnONA8-ENhR0NE04mIllqB&index=15"> Hesham Assem Video 2, <strong> Special Arabic Content</strong></a>
+        - <a href="https://www.youtube.com/watch?v=8_VEwRMkvRg&list=PL6-3IRz2XF5UnONA8-ENhR0NE04mIllqB&index=16"> Hesham Assem Video 3, <strong> Special Arabic Content</strong></a>
+        - <a href="https://www.youtube.com/watch?v=4L4TT3-nic4"> Moataz Saad Video 1, <strong> Special Arabic Content</strong></a><br>
+
+    - Collaborative Filtering Recommendation System
+        - <a href="https://us.hidester.com/proxy.php?u=eJwBcwCM%2F3M6MTA2OiInFvvbiGSaE2J0oipuRxoF6UoMOo1uOiE7jjUqFMPj4bgntMII4bTRqHMHsINbz337b65C1Lg4PDui873dxaZmE0%2BwOEDiBaFYEtgtNHAkIYOzPWVKR9AwOZ9Al4w1SudwBRBQ4wNhUrjMIjsL8DFs&b=7"> Various Implementations of Collaborative Filtering </a>
+        - <a href="https://www.slideshare.net/erikbern/collaborative-filtering-at-spotify-16182818"> Collaborative Filtering at Spotify </a>
+        - <a href="https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe"> Spotify’s Discover Weekly: How machine learning finds your new music </a>
+        
+    - Spotify Playlist Recommendation System GitHub Repo 
+        - <a href="https://github.com/wsmiles000/CS109a-Spotify-Recommendation#conclusions-&-summary"> GitHub Repo </a>    
+
+<center> <strong> Feel free to study any other materials which is not mentioned up here, that will make you understand the content well </strong> </center> 
+
+<center> <strong> Please start studying immediately as STUDY WILL TAKE TIME </strong> </center> 
+
+<center> Wish you best of luck </center>
+<hr>
