@@ -42,8 +42,8 @@
 
 Down here is an example notebook in which you have to modify your changes upon it:<br>
 <a href="Task1_FeatureEngineering.ipynb"> Task1: Feature Engineering Notebook</a>
-
 <hr>
+<a href="Task1_ModelAnswer.ipynb"> Task 1 Model Answer Notebook</a>
 <hr>
 
 <center> <h1> Task 2: Spotify Collaborative Filtering Model Building</h1> </center>
@@ -54,8 +54,12 @@ Down here is an example notebook in which you have to modify your changes upon i
 - Deadline Date: 9/16/2022 <br>
 - Deadline Time: 11:59 PM EG, 03:30 AM IST
 
-- Dataset Link:
-    - (will be added soon)
+- Dataset:
+    - There are two datasets and we will try to train our model on both and then check the accuracy and compare
+        - This is supposed to be made to gain visualization about the importance of PCA
+        - The datsets are `model_normal_dataset.csv` and `model_pca_dataset.csv` 
+    - Link
+        - https://drive.google.com/drive/folders/104scYexDFCHGSWE8pw3sXTmieWwZZUpH?usp=sharing
 
 We are going to build Recommendation System using `Collaborative Filtering` 
 
