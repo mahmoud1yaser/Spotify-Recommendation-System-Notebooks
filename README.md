@@ -90,3 +90,31 @@ We are going to build Recommendation System using `Collaborative Filtering`
 
 <center> Wish you best of luck </center>
 <hr>
+<center> <h1> Task 3: Build Basic Website </h1> </center>
+<hr>
+
+## Task Details 
+- Deadline Date: 9/22/2022 <br>
+- Deadline Time: 11:59 PM EG, 03:30 AM IST (9/23/2022)
+
+- You are supposed to build a website using <a href = "https://streamlit.io/" > Streamlit </a>
+- The website should contain of minimum one page with:
+    - Welcome Title and description of what our website does 
+    - Input box where I input the name of the song
+    - Output Table where I can control how many rows it should display
+    - The output table should contain the track's 
+        - Name
+        - Album
+        - Track Uri
+        - Footer which wrote in it, your credit as name, etc.
+    - Just do the task with no ML Model explained, just make the user interface and functionalities
+    - A BONUS for designing the best user interface
+    - Helping Materials:
+        - Streamlit Crash Course
+            - https://www.youtube.com/watch?v=_9WiB2PDO7k&t=2105s
+        - Building A Course Recommender App with Streamlit
+            - https://www.youtube.com/watch?v=w564MnjtB7I
+        - Streamlit Documentation
+            - https://streamlit.io/
+<center> Wish you best of luck </center>
+<hr>
