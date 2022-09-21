@@ -106,7 +106,7 @@ We are going to build Recommendation System using `Collaborative Filtering`
         - Name
         - Album
         - Track Uri
-        - Footer which wrote in it, your credit as name, etc.
+    - Footer which wrote in it, your credit as name, etc.
     - Just do the task with no ML Model explained, just make the user interface and functionalities
     - A BONUS for designing the best user interface
     - Helping Materials:
